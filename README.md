@@ -1,4 +1,4 @@
 unischool
 =========
 
-Proyecto para Instituto La Araucana
+Proyecto para Administracion de Colegios
